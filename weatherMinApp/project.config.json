@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wxf44d80c729a3cdae",
-	"projectname": "weatherApp",
+	"projectname": "weather1",
 	"condition": {
 		"search": {
 			"current": -1,
